@@ -1,0 +1,16 @@
+SITE SERRURERIE DUVAL PÈRE ET FILS
+
+Ce dossier contient la version serrurerie, séparée du site multiservices d'origine.
+
+FICHIERS :
+- index.html : page du site, avec le logo typographique et les couleurs de l'original.
+- CNAME : domaine acheté chez OVH.
+
+PUBLICATION :
+1. Ouvrir le dépôt GitHub Multiservice0/serrurier-duvalservice.
+2. Add file > Upload files. Décompresser cette archive et déposer index.html et CNAME (pas le ZIP lui-même).
+3. Settings > Pages > Deploy from a branch > main / (root) > Save.
+4. Configurer les DNS OVH selon la documentation GitHub Pages pour domaine apex.
+
+IMPORTANT : vérifier le texte des prestations, les mentions légales, les horaires et les zones réellement desservies avant publication / Google Ads.
+Le visuel utilise une photographie illustrative distante ; elle ne représente pas nécessairement une intervention de l'entreprise.
